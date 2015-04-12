@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Map.StudentLocation.init (Map.StudentLocation.Type)(dictionary : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;) -&gt; Map.StudentLocation:StudentLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firstName">
+            </PersistentString>
+            <PersistentString
+               value = "self.firstName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.WebUtilities.parseJSONWithCompletionHandler (Map.WebUtilities.Type)(ObjectiveC.NSData, completionHandler : (result : Swift.ImplicitlyUnwrappedOptional&lt;Swift.AnyObject&gt;, error : Swift.Optional&lt;ObjectiveC.NSError&gt;) -&gt; ()) -&gt; ():WebUtilties.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Map.ViewController.getStudentLoc (Map.ViewController)() -&gt; ():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Map.WebUtilities.(ValidateURL (Map.WebUtilities) -&gt; (Swift.String, completionHandler : (success : Swift.Bool, error : Swift.Optional&lt;ObjectiveC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1):WebUtilties.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OnTheMap.PostStudentonMap.(textView (OnTheMap.PostStudentonMap) -&gt; (Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextView&gt;, shouldChangeTextInRange : C._NSRange, replacementText : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSString&gt;) -&gt; Swift.Bool).(closure #1).(closure #1):PostStudentonMap.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textView.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.ViewController.viewDidLoad (Map.ViewController)() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapview">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.WebUtilities.taskForParseMethod (Map.WebUtilities)(Swift.String, urlpath : Swift.String, parameters : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, jsonBody : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, completionHandler : (result : Swift.ImplicitlyUnwrappedOptional&lt;Swift.AnyObject&gt;, error : Swift.Optional&lt;ObjectiveC.NSError&gt;) -&gt; ()) -&gt; ObjectiveC.NSURLSessionDataTask:WebUtilties.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.StudentsTable.tableView (Map.StudentsTable)(ObjectiveC.UITableView, cellForRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ObjectiveC.UITableViewCell:StudentsTable.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "itm.mediaURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.StudentsTable.tableView (Map.StudentsTable)(ObjectiveC.UITableView, didSelectRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ():StudentsTable.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.WebUtilities.(taskForParseMethod (Map.WebUtilities) -&gt; (Swift.Bool, httpmethod : Swift.String, urlpath : Swift.String, parameters : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, jsonBody : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, completionHandler : (result : Swift.ImplicitlyUnwrappedOptional&lt;Swift.AnyObject&gt;, error : Swift.Optional&lt;ObjectiveC.NSError&gt;) -&gt; ()) -&gt; ObjectiveC.NSURLSessionDataTask).(closure #1):WebUtilties.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "httpmethod">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.iosStudents.tableView (Map.iosStudents)(ObjectiveC.UITableView, numberOfRowsInSection : Swift.Int) -&gt; Swift.Int:iosStudents.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "last100Students.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.StudentsTable.(Refresh (Map.StudentsTable) -&gt; () -&gt; ()).(closure #1).(closure #1):StudentsTable.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "last100Students">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.ViewController.(getuserdata (Map.ViewController) -&gt; (Swift.String) -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.iosStudents.tableView (Map.iosStudents)(ObjectiveC.UITableView, cellForRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ObjectiveC.UITableViewCell:iosStudents.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "last100Students.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.ViewController.(getStudentLoc (Map.ViewController) -&gt; () -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "updatedAt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OnTheMap.StudentsOnMap.AddPin4Students (OnTheMap.StudentsOnMap)() -&gt; ():StudentsOnMap.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "WebUtilities.sharedInstance().CurrentStudent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.StudentLocation.studentsFromResults (Map.StudentLocation.Type)(Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; Swift.Array&lt;Map.StudentLocation&gt;:StudentLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "students">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.ViewController.(viewDidLoad (Map.ViewController) -&gt; () -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "student.firstName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OnTheMap.PostStudentonMap.(Post (OnTheMap.PostStudentonMap) -&gt; (Swift.AnyObject) -&gt; ()).(closure #1):PostStudentonMap.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Map.LoginViewController.LoginHere (Map.LoginViewController)(ObjectiveC.UIButton) -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "usernameTextField">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.WebUtilities.(upsertStudentToMap (Map.WebUtilities) -&gt; (Map.StudentLocation, completionHandler : (result : Swift.Optional&lt;Swift.Int&gt;, error : Swift.Optional&lt;ObjectiveC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1):StudentsHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "putOrPost">
+            </PersistentString>
+            <PersistentString
+               value = "JSONResult[&quot;createdAt&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "JSONResult">
+            </PersistentString>
+            <PersistentString
+               value = "JSONResult.valueForKey(&quot;updatedAt&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map.ViewController.LoginLocal (Map.ViewController)(Swift.String, password : Swift.String) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "param.dataUsingEncoding(NSUTF8StringEncoding)">
+            </PersistentString>
+            <PersistentString
+               value = "&quot;{\&quot;facebook_mobile\&quot;: {\&quot;access_token\&quot;: \&quot;DADFMS4SN9e8BAD6vMs6yWuEcrJlMZChFB0ZB0PCLZBY8FPFYxIPy1WOr402QurYWm7hj1ZCoeoXhAk2tekZBIddkYLAtwQ7PuTPGSERwH1DfZC5XSef3TQy1pyuAPBp5JJ364uFuGw6EDaxPZBIZBLg192U8vL7mZAzYUSJsZA8NxcqQgZCKdK4ZBA2l2ZA6Y1ZBWHifSM0slybL9xJm3ZBbTXSBZCMItjnZBH25irLhIvbxj01QmlKKP3iOnl8Ey;\&quot;}}&quot;.dataUsingEncoding(NSUTF8StringEncoding)">
+            </PersistentString>
+            <PersistentString
+               value = "request.HTTPBody">
+            </PersistentString>
+            <PersistentString
+               value = " request.HTTPBody ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
